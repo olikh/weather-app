@@ -4,3 +4,10 @@ body {
     background-size: cover;
     font-family: sans-serif;
 }
+.main-info {
+    width: 35%;
+    margin: 2em auto;
+    background: linear-gradient(to top, #d299c2 0%, #fef9d7 100%);
+    padding: 2em;
+    border-radius: 5px;
+}
